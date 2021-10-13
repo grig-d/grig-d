@@ -1,4 +1,3 @@
-### Hi there 👋
 ![](https://www.codewars.com/users/grig-d/badges/large)
 
 <!--
