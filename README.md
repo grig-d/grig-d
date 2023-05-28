@@ -1,3 +1,5 @@
+<img src="https://www.codewars.com/users/grig-d/badges/micro" />
+
 ### Stack and tools
 <img align="left" alt="JavaScript" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="HTML5" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
@@ -21,7 +23,7 @@ Here are some ideas to get you started:
 https://github.com/topics
 
 Jest
-<img alt="Jest" width="32px" src="https://camo.githubusercontent.com/f2c80b28082b1568bf6ae3e4b999dcf6916e4f7ef611aa48efed85198ebe53a9/68747470733a2f2f6a6573746a732e696f2f696d672f6a6573742e706e67" />
+https://camo.githubusercontent.com/f2c80b28082b1568bf6ae3e4b999dcf6916e4f7ef611aa48efed85198ebe53a9/68747470733a2f2f6a6573746a732e696f2f696d672f6a6573742e706e67
 
 JSON
 https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/json/json.png
@@ -31,4 +33,5 @@ https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3
 
 -->
 
-https://www.codewars.com/users/grig-d/badges/micro
+
+
